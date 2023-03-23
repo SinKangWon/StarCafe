@@ -14,9 +14,9 @@
 		</div>
 		<div>
 			<ul>
-				<li><a href="product/list">제품관리</a></li>
+				<li><a href="product/list">제품목록</a></li>
 				<li><a href="/resources/html/product.html">제품관리 (AJAX)</a></li>
-				<li><a href="customer/list">고객관리</a></li>
+				<li><a href="customer/list">고객목록</a></li>
 				<li><a href="/resources/html/customer.html">고객관리 (AJAX)</a></li>
 			</ul>
 		</div>
